@@ -1,3 +1,4 @@
+import 'styles/global.css'
 import React from 'react'
 
 const site = process.env.NEXT_PUBLIC_SITE_URL || 'https://countdown-seven-sooty.vercel.app'
